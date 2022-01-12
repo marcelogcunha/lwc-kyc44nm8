@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/marcelogcunha.lwc-kyc44nm8",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve jaYKEYf5lzdlsgbo7Bzp --open"
+  }
+}
